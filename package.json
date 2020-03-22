@@ -24,7 +24,12 @@
     "url": "https://github.com/rajatonit/vue-NProgress/issues"
   },
   "homepage": "https://github.com/rajatonit/vue-NProgress#readme",
+  "peerDependencies": {
+    "vue": ">=2"
+  },
   "dependencies": {
+    "add": "^2.0.6",
+    "bili": "^4.8.1",
     "nprogress": "^0.2.0"
   }
 }
