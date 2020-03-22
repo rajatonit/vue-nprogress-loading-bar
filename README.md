@@ -6,6 +6,8 @@ completed and the page is loaded before ending the loading bar sequence.
 
 For Axios to work. You will need to install the Vue.Axios plugin. And inject it as a Vue Plugin before importing this library.
 
+Fetch will be comming soon!
+
 ![](example.gif)
 
 
