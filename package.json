@@ -2,7 +2,7 @@
   "name": "vue-nprogress-loading-bar",
   "version": "0.0.3",
   "description": "Simple to use Vue Plugin for NProgress",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "./node_modules/.bin/bili ./src/index.js",
     "test": "echo \"No test specified\""

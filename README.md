@@ -5,6 +5,8 @@ Simple to use Vue Plugin for NProgress
 ## How to use
 
 ```js
+import NProgress  from 'vue-nprogress-loading-bar'
+
 const options = {
   latencyThreshold: 200, // Number of ms before progressbar starts showing
   router: true, // Show progressbar when navigating routes
