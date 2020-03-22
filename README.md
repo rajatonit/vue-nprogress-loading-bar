@@ -4,6 +4,8 @@ Simple to use Vue Plugin for NProgress, with a more modern approach based off of
 This Plugin also works in conjunction with Vue.Axios and Vue.http on page load, and will wait until those calls are 
 completed and the page is loaded before ending the loading bar sequence.
 
+For Axios to work. You will need to install the Vue.Axios plugin. And inject it as a Vue Plugin before importing this library.
+
 ![](example.gif)
 
 
