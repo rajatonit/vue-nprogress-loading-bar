@@ -1,18 +1,24 @@
 # vue-NProgress-plugin
-Simple to use Vue Plugin for NProgress
+Simple to use Vue Plugin for NProgress.
+This Plugin also works in conjunction with Vue.Axios and Vue.http on page load, and will wait until those calls are 
+completed and the page is loaded before ending the loading bar sequence.
 
 
 ## How to use
 
 ```js
+import  router from './router'
+...
+...
+...
 import NProgress  from 'vue-nprogress-loading-bar'
 
 const options = {
   latencyThreshold: 200, // Number of ms before progressbar starts showing
   router: true, // Show progressbar when navigating routes
-  http: false // Show progressbar when doing Axios.http or Vue.http
+  http: true // Show progressbar when doing Axios.http or Vue.http
 };
-Vue.use(NProgress, options)
+Vue.use(NProgress, options,router)
 ```
 
 In order to overwrite the configuration for certain requests, use showProgressBar parameter in request/route's meta.

@@ -29,8 +29,9 @@
     "vue": ">=2"
   },
   "dependencies": {
-    "add": "^2.0.6",
-    "bili": "^4.8.1",
     "nprogress": "^0.2.0"
+  },
+  "devDependencies": {
+    "bili": "^4.8.1"
   }
 }
