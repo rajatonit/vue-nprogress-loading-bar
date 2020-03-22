@@ -8,9 +8,6 @@ For Axios to work. You will need to install the Vue.Axios plugin. And inject it 
 
 Fetch will be comming soon!
 
-![](example.gif)
-
-
 ## How to use
 
 ```js
