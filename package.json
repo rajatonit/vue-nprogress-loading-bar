@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajatonit/vue-NProgress-plugin.git"
+    "url": "git+https://github.com/rajatonit/vue-nprogress-loading-bar.git"
   },
   "keywords": [
     "Vue",
@@ -22,9 +22,9 @@
   "author": "rajatonit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rajatonit/vue-NProgress-plugin/issues"
+    "url": "https://github.com/rajatonit/vue-nprogress-loading-bar/issues"
   },
-  "homepage": "https://github.com/rajatonit/vue-NProgress-plugin#readme",
+  "homepage": "https://github.com/rajatonit/vue-nprogress-loading-bar#readme",
   "peerDependencies": {
     "vue": ">=2"
   },
