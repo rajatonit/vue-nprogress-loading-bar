@@ -1,6 +1,6 @@
 {
   "name": "vue-nprogress-plugin",
-  "version": "0.0.1",
+  "version": "0.0.0git ",
   "description": "Simple to use Vue Plugin for NProgress",
   "main": "index.js",
   "scripts": {
