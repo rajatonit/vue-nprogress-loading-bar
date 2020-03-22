@@ -1,6 +1,6 @@
 {
   "name": "vue-nprogress-loading-bar",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple to use Vue Plugin for NProgress",
   "main": "dist/index.js",
   "scripts": {
