@@ -4,6 +4,7 @@
   "description": "Simple to use Vue Plugin for NProgress",
   "main": "index.js",
   "scripts": {
+    "build": "./node_modules/.bin/bili ./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
