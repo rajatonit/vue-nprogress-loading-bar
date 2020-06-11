@@ -32,6 +32,6 @@
     "nprogress": "^0.2.0"
   },
   "devDependencies": {
-    "bili": "^4.8.1"
+    "bili": "^4.10.1"
   }
 }
