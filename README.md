@@ -1,5 +1,6 @@
 # vue-NProgress-plugin
 
+
 Simple to use Vue Plugin for NProgress. This is a fork of vue bluma framework with a more modern approach.
 
 This Plugin also works in conjunction with Vue.Axios and Vue.http on page load, and will wait until those calls are
