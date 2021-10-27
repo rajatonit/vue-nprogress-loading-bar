@@ -15,6 +15,7 @@ import  router from './router'
 ...
 ...
 
+
 import NProgress  from 'vue-nprogress-loading-bar'
 
 const options = {
